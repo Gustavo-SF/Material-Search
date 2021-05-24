@@ -1,0 +1,11 @@
+pyodbc
+nltk
+pandas
+ipykernel
+matplotlib
+seaborn
+numpy
+ftfy
+sklearn
+editdistance
+textwrap

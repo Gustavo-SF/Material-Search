@@ -1,1 +1,16 @@
+# jupyter and python files
 .ipynb_checkpoints/
+__pycache__
+
+# virtual env
+venv/
+
+# secrets
+variables.json
+
+# data
+material_data.csv
+distance_matrix.npy
+
+# images with confidential information
+top10words.png
