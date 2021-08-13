@@ -9,3 +9,4 @@ ftfy
 sklearn
 editdistance
 textwrap
+sqlalchemy
