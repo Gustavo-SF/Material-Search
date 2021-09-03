@@ -10,3 +10,4 @@ sklearn
 editdistance
 textwrap
 sqlalchemy
+jupyterlab

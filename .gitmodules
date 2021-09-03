@@ -1,0 +1,7 @@
+[submodule "Material-Search-Processing"]
+	path = Material-Search-Processing
+	url = https://github.com/Gustavo-SF/Material-Search-Processing.git
+
+[submodule "Material-Search-Model-Deployment"]
+	path = Material-Search-Model-Deployment
+	url = https://github.com/Gustavo-SF/MS-ML-Deployment.git
