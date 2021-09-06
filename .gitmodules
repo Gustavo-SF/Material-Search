@@ -5,3 +5,7 @@
 [submodule "Material-Search-Model-Deployment"]
 	path = Material-Search-Model-Deployment
 	url = https://github.com/Gustavo-SF/MS-ML-Deployment.git
+
+[submodule "Material-Search-App"]
+	path = Material-Search-App
+	url = https://github.com/Gustavo-SF/PPP-Search-App.git
